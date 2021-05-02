@@ -1,5 +1,5 @@
 {
-    "name": "HD Image/Video Player, modified to read files from USB",
+    "name": "HD Image/Video Player, USB mod",
     "author": "Florian Wesch <fw@info-beamer.com>, modified by Chris Schaffner <huebli@gmail.com>",
     "desc": "Displays images and videos in a rotation",
     "repository": "https://github.com/cschaffner/package-hd-player",
