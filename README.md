@@ -1,4 +1,7 @@
-[![Import](https://cdn.infobeamer.com/s/img/import.png)](https://info-beamer.com/use?url=https://github.com/info-beamer/package-hd-player)
+[![Import](https://cdn.infobeamer.com/s/img/import.png)](https://info-beamer.com/use?url=https://github.com/cschaffner/package-hd-player)
+
+# Mod 
+modified to read files from USB instead...
 
 # Description
 
